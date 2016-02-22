@@ -1,7 +1,6 @@
 
 
-def reeting(msg):
-    print(msg)
+from helper import reeting
 
 
 if __name__ == "__main__":
